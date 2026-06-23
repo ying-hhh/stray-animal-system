@@ -1,6 +1,9 @@
-# 🐾 校园流浪动物图鉴与动态打卡系统
+# 🐾 校园动物学友图鉴与动态打卡系统
 
-基于 **Spring Boot 3 + Vue 3** 的校园流浪动物管理平台，支持动物图鉴浏览、打卡动态发布、社交互动等功能。
+基于 **Spring Boot 3 + Vue 3** 的校园动物管理平台，支持动物图鉴浏览、打卡动态发布、社交互动等功能。
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0.2-brightgreen)](https://spring.io/projects/spring-boot)
+[![Vue](https://img.shields.io/badge/Vue-3.x-4FC08D)](https://vuejs.org/)
 
 ---
 
